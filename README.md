@@ -1,2 +1,2 @@
 # OpenGC
-Beta version of the engine
+Game engine
